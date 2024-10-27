@@ -52,9 +52,14 @@ src="https://img.shields.io/badge/-SOFTWARE--SYSTEM-228B22?style=for-the-badge"
 alt="Software System"></a></div>
 </div>
 
+---
+**Beside reading the system based report, here is the tasks / events based reports**
+It includes reports of every meeting, events, experiments, tasks, testing.
+<a href="./reports/TASK-BASED-REPORTS.md"><img src="https://img.shields.io/badge/-Task based reports-FFFF00?style=for-the-badge"></a>
+
 ## Timeline and Contribution in our TEAM
 You can click following *links* to direct to different statistic pages related to the Git commit records / Timeline / Contribution list
-</div><div align="center">
+<div align="center">
 <a title="zh-CN" href="https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/"><img src="https://img.shields.io/badge/-GIT--COMMITs-545759?style=for-the-badge" alt="TIMELINE_English"></a>
 <a title="zh-CN" href="./TIMELINE.md"><img src="https://img.shields.io/badge/-TIMELINE__English-545759?style=for-the-badge" alt="TIMELINE_English"></a>
 <a title="zh-CN" href="./TIMELINE_zh-CN.md"><img src="https://img.shields.io/badge/-TIMELINE__简体中文-545759?style=for-the-badge" alt="TIMELINE_简体中文"></a>
@@ -68,6 +73,13 @@ You can click following *links* to direct to different statistic pages related t
 - Develop branch: https://github.com/Jason-JP-Yang/STEAM-ROV/commits/develop
 - Timeline: [TIMELINE.md](./TIMELINE.md)
 - Contribution list: [CONTRIBUTION.md](./CONTRIBUTION.md)
+
+---
+### ***Expense Records***
+**Abstract: Until 2024-10-27 Project Expenses: <font color="#ffff00">12.9 CNY / 13.9 HKD**</font></br>
+Click the following links direct to the record sheet of expenses. Only English version is provide in this aspects. 
+<div align="center">
+<a title="zh-CN" href="https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/"><img src="https://img.shields.io/badge/-record sheet of expenses-FFFF00?style=for-the-badge" alt="record sheet of expenses_English"></a></div>
 
 ### ***All Useful Links***
 </div><div align="center">

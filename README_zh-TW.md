@@ -68,6 +68,14 @@ alt="Software System"></a></div>
 - Develop branch: https://github.com/Jason-JP-Yang/STEAM-ROV/commits/develop
 - Timeline: [TIMELINE.md](./TIMELINE.md)
 - Contribution list: [CONTRIBUTION.md](./CONTRIBUTION.md)
+
+---
+### ***Expense Records***
+**Abstract: Until 2024-10-27 Project Expenses: <font color="#ffff00">12.9 CNY / 13.9 HKD**</font>
+Click the following links direct to the record sheet of expenses. Only English version is provide in this aspects. 
+<div align="center">
+<a title="zh-CN" href="https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/"><img src="https://img.shields.io/badge/-record sheet of expenses-FFFF00?style=for-the-badge" alt="record sheet of expenses_English"></a></div>
+
 ### ***All Useful Links***
 </div><div align="center">
 <a title="zh-CN" href="https://github.com/Jason-JP-Yang/STEAM-ROV"><img src="https://img.shields.io/badge/-HOME PAGE-A31F34?style=for-the-badge"></a>
