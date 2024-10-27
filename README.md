@@ -1,4 +1,14 @@
 # STEAM TEAM ROV Project 2024-2025
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/all.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/fontawesome.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/brands.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/solid.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/regular.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/thin.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/light.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/duotone.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/sharp-solid.min.css">
+
 > Hong Kong Po Leung Kuk Ngan Po Ling College Steam Team Robotics ROV Team 2 </br>
 > Teammates: JP-YANG, Jasmine, Walter, Mark Chan, Kasey Chan
 <div align="right">

@@ -1,4 +1,14 @@
 # STEAM 水下機器人項目
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/all.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/fontawesome.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/brands.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/solid.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/regular.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/thin.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/light.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/duotone.min.css">
+<link rel="stylesheet" type="text/css" href="./markdown-resource/fontawesome/sharp-solid.min.css">
+
 > 保良局顏寶鈴書院 STEAM校隊 ROBOTICS GROUP 水下機器人二隊</br>
 > Teammates: JP-YANG, Jasmine, Walter, Mark Chan, Kasey Chan
 <div align="right">
