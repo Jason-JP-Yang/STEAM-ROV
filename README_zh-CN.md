@@ -52,6 +52,11 @@ src="https://img.shields.io/badge/-SOFTWARE--SYSTEM-228B22?style=for-the-badge"
 alt="Software System"></a></div>
 </div>
 
+---
+**除了阅读基于系统的报告之外，这里还有基于任务/事件的报告**
+它包括每次会议、事件、实验、任务、测试的报告。
+<a href="./reports/TASK-BASED-REPORTS.md"><img src="https://img.shields.io/badge/-Task based reports-FFFF00?style=for-the-badge"></a>
+
 ## Timeline and Contribution in our TEAM
 您可以点击下面的*链接*直接进入与Git提交记录/时间轴/贡献列表相关的不同统计页面
 </div><div align="center">
@@ -71,10 +76,10 @@ alt="Software System"></a></div>
 
 ---
 ### ***Expense Records***
-**Abstract: Until 2024-10-27 Project Expenses: <font color="#ffff00">12.9 CNY / 13.9 HKD**</font>
+**Abstract: Until 2024-10-27 Project Expenses: <font color="#ffff00">12.9 CNY / 13.9 HKD**</font></br>
 Click the following links direct to the record sheet of expenses. Only English version is provide in this aspects. 
 <div align="center">
-<a title="zh-CN" href="https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/"><img src="https://img.shields.io/badge/-record sheet of expenses-FFFF00?style=for-the-badge" alt="record sheet of expenses_English"></a></div>
+<a title="zh-CN" href="./EXPENSE-rec.md"><img src="https://img.shields.io/badge/-record sheet of expenses-FFFF00?style=for-the-badge" alt="record sheet of expenses_English"></a></div>
 
 ### ***All Useful Links***
 </div><div align="center">
