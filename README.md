@@ -53,9 +53,26 @@ alt="Software System"></a></div>
 </div>
 
 ---
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+
 **Beside reading the system based report, here is the tasks / events based reports**
 It includes reports of every meeting, events, experiments, tasks, testing.
+</div><div>
 <a href="./reports/TASK-BASED-REPORTS.md"><img src="https://img.shields.io/badge/-Task based reports-FFFF00?style=for-the-badge"></a>
+</div></div>
+
+---
+### ***REGULATION of Team development and contribution to the repository***
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+Github will become the remote storage of our project. </br>
+
+For multiple teammates developments, **Git** will be very useful in development. For the **usage of Git and some regulation of contribution.** </br>
+Click the following links to read detail information related to it!
+</div><div>
+<a href="./GIT-USAGE.md"><img src="https://img.shields.io/badge/-Git Usage & Regulations-A31F34?style=for-the-badge"></a>
+</div></div>
 
 ## Timeline and Contribution in our TEAM
 You can click following *links* to direct to different statistic pages related to the Git commit records / Timeline / Contribution list
