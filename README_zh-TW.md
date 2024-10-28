@@ -13,7 +13,7 @@
 > Teammates: JP-YANG, Jasmine, Walter, Mark Chan, Kasey Chan
 <div align="right">
   <a title="en" href="README.md"><img src="https://img.shields.io/badge/-English-545759?style=for-the-badge" alt="english"></a>
-  <a title="zh-CN" href="README_zh-CN.md">  <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
+  <a title="zh-CN" href="README_zh-CN.md">  <img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="簡體中文"></a>
   <img src="https://img.shields.io/badge/-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-A31F34?style=for-the-badge" alt="language">
 </div>
 <img align="center" src="./markdown-resource/cover-ROV.png"alt="cover-ROV2">
@@ -53,9 +53,25 @@ alt="Software System"></a></div>
 </div>
 
 ---
-**除了阅读基于系统的报告之外，这里还有基于任务/事件的报告**
-它包括每次会议、事件、实验、任务、测试的报告。
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+
+**除了閲讀基於系統的報告之外，這裏還有基於任務/事件的報告**
+它包括每次會議、事件、實驗、任務、測試的報告。
+</div><div>
 <a href="./reports/TASK-BASED-REPORTS.md"><img src="https://img.shields.io/badge/-Task based reports-FFFF00?style=for-the-badge"></a>
+</div></div>
+
+---
+### ***團隊開發和對存儲庫的貢獻的規則***
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+Github將成為我們項目的遠程存儲。< / br >
+
+對於多團隊開發，**Git**在開發中將非常有用。對於Git的使用和貢獻的一些規定：</br>點擊以下鏈接閲讀相關的詳細信息！
+</div><div>
+<a href="./GIT-USAGE.md"><img src="https://img.shields.io/badge/-Git Usage & Regulations-A31F34?style=for-the-badge"></a>
+</div></div>
 
 ## Timeline and Contribution in our TEAM
 您可以點擊下面的*鏈接*直接進入與Git提交記錄/時間軸/貢獻列表相關的不同統計頁面
@@ -91,4 +107,5 @@ Click the following links direct to the record sheet of expenses. Only English v
 src="https://img.shields.io/badge/-MATE ROV-7FFFD4?style=for-the-badge"></a>
 <a title="zh-CN" href="https://micropython.org/"><img src="https://img.shields.io/badge/-Micropython.org-2B2728?style=for-the-badge"></a>
 <a title="zh-CN" href="https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/"><img src="https://img.shields.io/badge/-INVENSENSE--TDK__MPU6050-0046AD?style=for-the-badge"></a>
+<a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-CH343--FIRMWARE-143657?style=for-the-badge"></a>
 <a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-YD--ESP32--S3-0046AD?style=for-the-badge"></a>

@@ -108,4 +108,5 @@ Click the following links direct to the record sheet of expenses. Only English v
 src="https://img.shields.io/badge/-MATE ROV-7FFFD4?style=for-the-badge"></a>
 <a title="zh-CN" href="https://micropython.org/"><img src="https://img.shields.io/badge/-Micropython.org-2B2728?style=for-the-badge"></a>
 <a title="zh-CN" href="https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/"><img src="https://img.shields.io/badge/-INVENSENSE--TDK__MPU6050-0046AD?style=for-the-badge"></a>
+<a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-CH343--FIRMWARE-143657?style=for-the-badge"></a>
 <a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-YD--ESP32--S3-0046AD?style=for-the-badge"></a>

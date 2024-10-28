@@ -53,9 +53,25 @@ alt="Software System"></a></div>
 </div>
 
 ---
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+
 **除了阅读基于系统的报告之外，这里还有基于任务/事件的报告**
 它包括每次会议、事件、实验、任务、测试的报告。
+</div><div>
 <a href="./reports/TASK-BASED-REPORTS.md"><img src="https://img.shields.io/badge/-Task based reports-FFFF00?style=for-the-badge"></a>
+</div></div>
+
+---
+### ***团队开发和对存储库的贡献的规则***
+<div style="display: flex;flex-direction: row;;align-items: center;">
+<div style="padding-right: 0.8rem; flex: 1;">
+Github将成为我们项目的远程存储。< / br >
+
+对于多团队开发，**Git**在开发中将非常有用。对于Git的使用和贡献的一些规定：</br>点击以下链接阅读相关的详细信息！
+</div><div>
+<a href="./GIT-USAGE.md"><img src="https://img.shields.io/badge/-Git Usage & Regulations-A31F34?style=for-the-badge"></a>
+</div></div>
 
 ## Timeline and Contribution in our TEAM
 您可以点击下面的*链接*直接进入与Git提交记录/时间轴/贡献列表相关的不同统计页面
@@ -91,4 +107,5 @@ Click the following links direct to the record sheet of expenses. Only English v
 src="https://img.shields.io/badge/-MATE ROV-7FFFD4?style=for-the-badge"></a>
 <a title="zh-CN" href="https://micropython.org/"><img src="https://img.shields.io/badge/-Micropython.org-2B2728?style=for-the-badge"></a>
 <a title="zh-CN" href="https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/"><img src="https://img.shields.io/badge/-INVENSENSE--TDK__MPU6050-0046AD?style=for-the-badge"></a>
+<a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-CH343--FIRMWARE-143657?style=for-the-badge"></a>
 <a title="zh-CN" href="https://github.com/vcc-gnd/YD-ESP32-S3"><img src="https://img.shields.io/badge/-YD--ESP32--S3-0046AD?style=for-the-badge"></a>
