@@ -13,8 +13,8 @@
 > Teammates: JP-YANG, Jasmine, Walter, Mark Chan, Kasey Chan
 <div align="right">
 <img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" />
-<a title="zh-CN" href="README_zh-CN.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
-<a title="zh-TW" href="README_zh-TW.md"><img src="https://img.shields.io/badge/-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="繁体中文"></a>
+<a title="zh-CN" href="./GIT-USAGE_zh-CN.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
+<a title="zh-TW" href="./GIT-USAGE_zh-TW.md"><img src="https://img.shields.io/badge/-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="繁体中文"></a>
 </div>  
 
 ![](./markdown-resource/git-c-ROV.png)
@@ -45,7 +45,8 @@ Therefore, i suggest you can study Git directly (一步到位 省时省力), don
 After you have read the necessary parts of ProGit you can learn about the following sections. </br>
 Here are some good habits to follow when using Github and Git:
 1. Every time before you start to develop your project you show **use git to check everything is up to date on remote** otherwise pull and rebase to your own local branches. </br> 
-**Remember to use pull rebase instead of pull**, otherwise there will produce a useless merge commit. If other people want to check the history of commits of repo, they need to filter out these rubbish and useless merge commits which disturb others. 
+**Remember to use pull rebase instead of pull**, otherwise there will produce a useless merge commit. If other people want to check the history of commits of repo, they need to filter out these rubbish and useless merge commits which disturb others. </br>
+**Remember build on the correct branch!!!** After you make pull rebase to keep update with the remote storage, you may in a different branch. PLEASE checkout back to your own branch then start continue build on project, ***otherwise you work cannot be saved!!!***
 ``` 
 $ git remote show <remote repo, e.g., STEAM-ROV>
 
@@ -65,6 +66,9 @@ $ git remote show <remote repo, e.g., STEAM-ROV>
 
 $ git checkout main
 $ git pull STEAM-ROV main --rebase
+
+$ (git config alias.co checkout)
+$ git co (checkout) <branch>
 ```
 2. Every time before you make a commit, **please make sure you add all files to cache and make a good commit**. After you made a commit, **check the git log to ensure everything is correct** otherwise make correction and amend your commit. Finally push it to the remote (Github repo). *After push to the remote you can either make a pull reuqest to merge to develop or main or continue your building but i suggest to redo the first step again make sure everything correct*
 ```
@@ -102,3 +106,23 @@ $ git rebase <branch>
 ### Dev-\<Contributor> Branch
 1. Every contributor should create his / her own branch
 2. Only one contributor is allowed in each branch in order to prevent push conflicts!
+### Special files or folders
+***Following is the special files or folder in the project***</br>
+List according to letters (from A-Z)
+
+| Items                                            | Type   |
+| ------------------------------------------------ | ------ |
+| ./.gitignore                                     | file   |
+| ./markdown-resource/cover-ROV.png                | file   |
+| ./markdown-resource/expenses-c-ROV.png           | file   |
+| ./markdown-resource/git-c-ROV.png                | file   |
+| ./markdown-resource/timeline-c-ROV.png           | file   |
+| ./additional-resource/Git&Github_usage guidlines | folder |
+| ./markdown-resource/fontawesome/                 | folder |
+| ./markdown-resource/webfonts/                    | folder |
+- If you want to make any amend on it, you must seek approval from others and provide a reasonable explanation
+- Create a individual commit for amendment of these special files or folder. 
+- The amendment of special files should be made on develop branch directly and all other contributors should immediately pull rebase from the remote storage. 
+---
+#### Contributor of git usage and regulation
+**Jason Yang \<jiepengyang@outlook.com>**
