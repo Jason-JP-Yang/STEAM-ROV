@@ -110,13 +110,11 @@ $ git rebase <branch>
 ***Following is the special files or folder in the project***</br>
 List according to letters (from A-Z)
 
-| Items                                            | Type   |
-| ------------------------------------------------ | ------ |
-| ./.gitignore                                     | file   |
-| ./markdown-resource/cover-ROV.png                | file   |
-| ./markdown-resource/expenses-c-ROV.png           | file   |
-| ./markdown-resource/git-c-ROV.png                | file   |
-| ./markdown-resource/timeline-c-ROV.png           | file   |
+| Items                                            |  Type  |
+| ------------------------------------------------ | :----: |
+| ./.gitignore                                     |  file  |
+| ./markdown-resource/cover-ROV.png                |  file  |
+| ./markdown-resource/.+-c-ROV\.png$               | files  |
 | ./additional-resource/Git&Github_usage guidlines | folder |
 | ./markdown-resource/fontawesome/                 | folder |
 | ./markdown-resource/webfonts/                    | folder |

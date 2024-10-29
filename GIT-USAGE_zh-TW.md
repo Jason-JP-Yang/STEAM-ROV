@@ -109,13 +109,11 @@ $ git rebase <branch>
 ***以下是項目中的特殊文件或文件夾***</br>
 按字母順序列出（從A到Z）
 
-| Items                                            | Type   |
-| ------------------------------------------------ | ------ |
-| ./.gitignore                                     | file   |
-| ./markdown-resource/cover-ROV.png                | file   |
-| ./markdown-resource/expenses-c-ROV.png           | file   |
-| ./markdown-resource/git-c-ROV.png                | file   |
-| ./markdown-resource/timeline-c-ROV.png           | file   |
+| Items                                            |  Type  |
+| ------------------------------------------------ | :----: |
+| ./.gitignore                                     |  file  |
+| ./markdown-resource/cover-ROV.png                |  file  |
+| ./markdown-resource/.+-c-ROV\.png$               | files  |
 | ./additional-resource/Git&Github_usage guidlines | folder |
 | ./markdown-resource/fontawesome/                 | folder |
 | ./markdown-resource/webfonts/                    | folder |

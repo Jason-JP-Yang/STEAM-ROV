@@ -80,9 +80,7 @@ Github將成為我們項目的遠程存儲。< / br >
 <a title="zh-CN" href="./TIMELINE.md"><img src="https://img.shields.io/badge/-TIMELINE__English-545759?style=for-the-badge" alt="TIMELINE_English"></a>
 <a title="zh-CN" href="./TIMELINE_zh-CN.md"><img src="https://img.shields.io/badge/-TIMELINE__簡體中文-545759?style=for-the-badge" alt="TIMELINE_簡體中文"></a>
 <a title="zh-CN" href="./TIMELINE_zh-TW.md"><img src="https://img.shields.io/badge/-TIMELINE__繁體中文-545759?style=for-the-badge" alt="TIMELINE_繁體中文"></a>
-<a title="zh-CN" href="./CONTRIBUTION.md"><img src="https://img.shields.io/badge/-Contribution__English-545759?style=for-the-badge" alt="Contribution_English"></a>
-<a title="zh-CN" href="./CONTRIBUTION_zh-CN.md"><img src="https://img.shields.io/badge/-Contribution__簡體中文-545759?style=for-the-badge" alt="Contribution_簡體中文"></a>
-<a title="zh-CN" href="./CONTRIBUTION_zh-TW.md"><img src="https://img.shields.io/badge/-Contribution__繁體中文-545759?style=for-the-badge" alt="Contribution_繁體中文"></a></div>
+<a title="zh-CN" href="./CONTRIBUTION.md"><img src="https://img.shields.io/badge/-Contribution__English-545759?style=for-the-badge" alt="Contribution_English"></a></div>
 
 - Git commit records 
 - Main branch: https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/

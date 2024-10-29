@@ -80,9 +80,7 @@ Github将成为我们项目的远程存储。< / br >
 <a title="zh-CN" href="./TIMELINE.md"><img src="https://img.shields.io/badge/-TIMELINE__English-545759?style=for-the-badge" alt="TIMELINE_English"></a>
 <a title="zh-CN" href="./TIMELINE_zh-CN.md"><img src="https://img.shields.io/badge/-TIMELINE__简体中文-545759?style=for-the-badge" alt="TIMELINE_简体中文"></a>
 <a title="zh-CN" href="./TIMELINE_zh-TW.md"><img src="https://img.shields.io/badge/-TIMELINE__繁体中文-545759?style=for-the-badge" alt="TIMELINE_繁体中文"></a>
-<a title="zh-CN" href="./CONTRIBUTION.md"><img src="https://img.shields.io/badge/-Contribution__English-545759?style=for-the-badge" alt="Contribution_English"></a>
-<a title="zh-CN" href="./CONTRIBUTION_zh-CN.md"><img src="https://img.shields.io/badge/-Contribution__简体中文-545759?style=for-the-badge" alt="Contribution_简体中文"></a>
-<a title="zh-CN" href="./CONTRIBUTION_zh-TW.md"><img src="https://img.shields.io/badge/-Contribution__繁体中文-545759?style=for-the-badge" alt="Contribution_繁体中文"></a></div>
+<a title="zh-CN" href="./CONTRIBUTION.md"><img src="https://img.shields.io/badge/-Contribution__English-545759?style=for-the-badge" alt="Contribution_English"></a></div>
 
 - Git commit records 
 - Main branch: https://github.com/Jason-JP-Yang/STEAM-ROV/commits/main/
