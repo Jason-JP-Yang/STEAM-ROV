@@ -28,3 +28,10 @@ https://www.espressif.com.cn/zh-hans/products/socs/esp32-s3 </br>
 Click links below to redirect to have detail information: <a title="zh-TW" href="./ESP32-S3-N16R8/ESP32.md"><img src="https://img.shields.io/badge/-ESP32--S3--N16R8-228B22?style=for-the-badge"></a>
 ### MPU6050 (TDK InvenSense)
 *Updating...*
+
+## Software System
+*Updating...*
+### Anaconda (distribution of Python environment)
+### Git (Include Github)
+### Micropython (Version 1.19)
+### Fusion / Inventor (Autodesk)

@@ -171,5 +171,21 @@ If you want to have more advance use on the firmware download tool you can read 
 ### FINALLY: Restart and reconnect the board, finally check status ensure everything work correctly.
 After that, you start develop python program on ESP32 perfectly. 
 
-## ***Basic Projects of ESP32***
-*Updating...*
+## ***Basic / Example Projects of ESP32***
+Here is some example projects done by Jason yang. It can be a good examples of using Micropython in programming ESP32. 
+### Control of implanted RGB
+It can make the implanted RGB light light in a breathing mode without block the main program (work in multi-threads). It will turn in rainbow colours (GREEN -> BLUE -> RED -> YELLOW) with 300 steps transition each time.
+
+Here is some key knowledge that you can study from this example project: 
+- using machine.Pin to control the PWM output of GPIO Pin
+- study the difference between `utime` and `time` in micropython, `utime` provide more useful functions such as sleep in a smaller interval and provide a more accurate tick counter.
+- learn the python decorator usage. Write the multi-thread in a decorator and make it can directly use for function to run without block of main thread.
+### Network Access through implanted WIFI in ESP32
+There provide two kind of working mode of WIFI (AP mode and WIFI mode). It makes ESP32 can serve as server and client separately.
+- AP mode (ESP32 act as a server):
+It will create a hotpot object with your self defined name (without a password). There is a WIFI 4 802.11n implanted in ESP32.
+- WIFI mode (Normal mode of ESP32 act as a client):
+It can connect to a WIFI and send and receive LAN messages. With the provided wifi name and password, ESP32 can get access to the WIFI network.
+
+Here is some key knowledge that you can study from this example project: 
+- The basic use of `network` to create a WIFI object in STA-IF and AP_IF mode
